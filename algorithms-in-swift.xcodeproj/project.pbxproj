@@ -7,14 +7,16 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		25B6D2432643071C00D05AB5 /* factorial.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = factorial.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		25B6D2432643071C00D05AB5 /* Factorial.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Factorial.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		25B6D24426430D0D00D05AB5 /* Fibonacci.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Fibonacci.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		25B6D23C2643070800D05AB5 = {
 			isa = PBXGroup;
 			children = (
-				25B6D2432643071C00D05AB5 /* factorial.playground */,
+				25B6D24426430D0D00D05AB5 /* Fibonacci.playground */,
+				25B6D2432643071C00D05AB5 /* Factorial.playground */,
 			);
 			sourceTree = "<group>";
 		};
