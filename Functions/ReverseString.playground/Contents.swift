@@ -1,10 +1,3 @@
-//extension StringProtocol {
-//	/// Subscript with integers
-//	subscript(offset: Int) -> Character {
-//		self[index(startIndex, offsetBy: offset)]
-//	}
-//}
-
 func reverseStringIterativly(_ string: String) -> String {
 	var newString = ""
 	for c in string {
