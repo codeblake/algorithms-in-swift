@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		254EB45E26456AE900FA895D /* SelectionSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SelectionSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		254EB45F26458CE000FA895D /* InsertionSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = InsertionSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		254EB4602645AC1500FA895D /* MergeSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		257586D3264420D100891C21 /* ReverseString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ReverseString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		25B6D2432643071C00D05AB5 /* Factorial.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Factorial.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		25B6D24426430D0D00D05AB5 /* Fibonacci.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Fibonacci.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -40,6 +41,7 @@
 				25FDB404264544C800ACDC40 /* BubbleSort.playground */,
 				254EB45E26456AE900FA895D /* SelectionSort.playground */,
 				254EB45F26458CE000FA895D /* InsertionSort.playground */,
+				254EB4602645AC1500FA895D /* MergeSort.playground */,
 			);
 			path = Sorting;
 			sourceTree = "<group>";
