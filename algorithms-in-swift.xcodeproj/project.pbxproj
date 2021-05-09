@@ -10,6 +10,7 @@
 		252340482646C3ED000336E2 /* QuickSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = QuickSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2523404A2647E852000336E2 /* BreadthFirstSearch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BreadthFirstSearch.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2523404B2647FB7B000336E2 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		2523404C264800C6000336E2 /* DepthFirstSearch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DepthFirstSearch.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		254EB45E26456AE900FA895D /* SelectionSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SelectionSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		254EB45F26458CE000FA895D /* InsertionSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = InsertionSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		254EB4602645AC1500FA895D /* MergeSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -24,6 +25,7 @@
 			isa = PBXGroup;
 			children = (
 				2523404A2647E852000336E2 /* BreadthFirstSearch.playground */,
+				2523404C264800C6000336E2 /* DepthFirstSearch.playground */,
 			);
 			path = Searching;
 			sourceTree = "<group>";
