@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		252340482646C3ED000336E2 /* QuickSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = QuickSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2523404A2647E852000336E2 /* BreadthFirstSearch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BreadthFirstSearch.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		254EB45E26456AE900FA895D /* SelectionSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SelectionSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		254EB45F26458CE000FA895D /* InsertionSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = InsertionSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		254EB4602645AC1500FA895D /* MergeSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -18,9 +19,18 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		25234049264700B7000336E2 /* Searching */ = {
+			isa = PBXGroup;
+			children = (
+				2523404A2647E852000336E2 /* BreadthFirstSearch.playground */,
+			);
+			path = Searching;
+			sourceTree = "<group>";
+		};
 		25B6D23C2643070800D05AB5 = {
 			isa = PBXGroup;
 			children = (
+				25234049264700B7000336E2 /* Searching */,
 				25FDB4032645449700ACDC40 /* Sorting */,
 				25FDB4022645446600ACDC40 /* Functions */,
 			);
